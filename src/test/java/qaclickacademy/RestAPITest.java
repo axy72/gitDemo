@@ -7,7 +7,7 @@ public class RestAPITest {
 	@Test 
 	public void postJira() {
 		System.out.println("****** postJira ******");
-		
+		System.out.println("****** GITDEMO MASTER INDIA  ******");
 	}
 	
 	@Test
