@@ -8,11 +8,13 @@ public class RestAPITest {
 	public void postJira() {
 		System.out.println("****** postJira ******");
 		System.out.println("****** GITDEMO MASTER INDIA  ******");
+		System.out.println("****** GITDEMO MASTER POSTJIRA USA  ******");
 	}
 	
 	@Test
 	public void deleteTwitter() {
 		System.out.println("****** deleteTwitter ******");
+		
 	}
 	
 }
